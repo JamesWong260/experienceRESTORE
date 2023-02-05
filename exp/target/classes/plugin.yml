@@ -1,0 +1,4 @@
+name: EXPrestore
+version: '1.0-SNAPSHOT'
+main: practise.healthrecove.Healthrecove
+api-version: 1.19
